@@ -4,7 +4,7 @@
 
 ### Description
 
-I decided to complete this Codecademy Handlebars project in my code editor rather than the online portal to get a more holistic understanding of the file structure. This also solidifies the topic coconcept in my minf. I used the supplied source code and completed the steps using Github version control to commit documentation. Here is the project description:
+I decided to complete this Codecademy Handlebars project in my code editor rather than the online portal to get a more holistic understanding of the file structure. This also solidifies the topic concept in my mind. I used the supplied source code and completed the steps using Github version control to commit documentation. Here is the project description:
 
 In this project, I will be updating the website of an online musical instruments store, Musicon. I will incorporate my knowledge of HTML, CSS, JavaScript, and Handlebars to make a stylish multi-page interactive website.
 
